@@ -132,7 +132,7 @@ Feel free to open issues or reach out through GitHub for any questions or sugges
 
 ## 👨‍💻 Author
 
-Created by **Sarthak Pimprikar** - Part of the **FitnessGenes** project.
+Created by **Tushar Deshmukh** - Part of the **FitnessGenes** project.
 
 ## 📄 License
 
